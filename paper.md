@@ -24,7 +24,7 @@ But the frustration had been building for some time.
 ## Results
 
 Certainly this journey led to some interesting discoveries.
-For one, I discovered that somehow the people of the world are able to collaborate on written content, without the aid of any kind of structured framework for collaboration.
+I discovered that somehow the people of the world are able to collaborate on written content, without the aid of any kind of structured framework for collaboration.
 <!-- This is a comment within a paragraph. I wonder what to say next. -->
 This was a surprise!
 
@@ -35,6 +35,7 @@ I learned some math along the way.
 $$
 x^2 / y
 $$
+
 Wasn't that interesting?
 
 > Here is a visible comment.
