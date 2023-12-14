@@ -8,7 +8,7 @@ Ah OK, I think I can see how it makes sense now.
 Basically, you get a really clean interface for focusing on the line you are currently writing.
 This is pretty cool, to be fair.
 
-This should be a new paragraph now.
+This should be a new paragraph now. 
 I hope so.
 
 ## Introduction
@@ -22,7 +22,7 @@ A journey into an unusual and strangely quiet corner of reality.
 <!-- Now let's build suspense. -->
 
 Why would he embark on such a quest? 
-Who can tell.
+Who can tell. 
 But the frustration had been building for some time.
 
 ## Results
@@ -53,6 +53,13 @@ This is a long search.
 ![](F4.large.jpg)
 
 **Figure 1.** An interesting result.
+
+### A new chapter
+
+So, there is more. Another player enters. 
+Obsidian is dark but interesting.
+It could only be something good.
+And there is a [plugin](https://github.com/chrisgrieser/obsidian-sembr?tab=readme-ov-file) which claims to provide semantic line breaks for you automatically.
 
 ## Discussion
 
