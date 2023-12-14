@@ -3,6 +3,10 @@
 This is the most interesting thing you'll ever read.
 What does it look like when you do one sentence per line?
 Does it look cool?
+I'm not really sure, what is this typewriter mode?
+Ah OK, I think I can see how it makes sense now.
+Basically, you get a really clean interface for focusing on the line you are currently writing.
+This is pretty cool, to be fair.
 
 This should be a new paragraph now.
 I hope so.
@@ -43,8 +47,8 @@ Wasn't that interesting?
 
 ### The beginning of the end
 
-This is a long search.
 Who would have known it would take so long.
+This is a long search.
 
 ![](F4.large.jpg)
 
